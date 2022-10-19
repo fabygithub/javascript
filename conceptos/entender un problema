@@ -1,0 +1,49 @@
+node.js
+validar el ambiente de trabajo
+nuestro proyecto
+modelar los datos del cliente
+como evitar repetir codigo
+
+modelar los datos del cliente
+esta estructura se repetira n veces
+crear una definicion y usarla n veces
+{
+NombreApellido,
+DNI,
+NroDeCuenta
+Saldo
+}
+
+windows power shell
+cd // cambiar directorio
+node .\index.js
+clear
+
+class //es una palabra reservada
+luego se definen los atributos o propiedades de la clase
+
+cuando hay codigo repetido que haga referencia a varios tipos
+se crea una clase para evitar escribir codigo repetido
+
+aprender un poco mas de la programacion a objetos
+hacer lo que aparece en los videos para seguir a la siguiente actividad
+
+lo que aprendimos 
+creacion de clases
+que son los atributos , propiedades de una clase
+instacia/objeto de una clase
+palabras reservadas class y new
+
+comportamiento de las clases
+definir las clases Cuenta y cuentaCorriente
+operaciones de cuentaCorriente
+Depositos
+Retiros
+
+git bash
+node index.js
+
+
+
+
+
