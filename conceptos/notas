@@ -1,1 +1,2 @@
-
+ this.saldo +=valor; //esto significa que al objeto que tenga saldo se le agrega un valor
+ 
