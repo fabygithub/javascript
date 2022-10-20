@@ -1,0 +1,15 @@
+<html> //  es un lenguaje de marcado que nos permite indicar la estructura 
+<body> //  Solo puede haber un elemento <body> en un documento
+<h1> // encabezados. El siguiente código muestra todos los niveles de encabezado ejemplo h1,h2
+id //El atributo global id define un identificador único (ID) el cual no debe repetirse en todo el documento.
+script // insertar codigo del lado del cliente
+let //let te permite declarar variables limitando su alcance (scope) al bloque, declaración, 
+    o expresión donde se está usando.a diferencia de la palabra clave 
+getElementById. Devuelve una referencia al elemento por su ID (en-US).
+innerHTML //La propiedad Element.innerHTML devuelve o establece la sintaxis HTML describiendo los descendientes del elemento.
+          //es como un return ejemplo innerHTML = z;
+addition codepen
+
+
+    
+      
