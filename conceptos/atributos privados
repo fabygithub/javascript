@@ -17,5 +17,13 @@ retiroencuenta(){}
 crear una nueva cuenta corriente:
 new cuentacorriente();
 
-window power shell o git bash
+
+
+windows powershell 
+cambiar directorio
+
+cd C:\Users\USUARIO\Desktop\fabi\javascript\ejercicios
+
+window power shell 
 node .\index.js
+
