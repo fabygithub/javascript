@@ -27,3 +27,9 @@ cd C:\Users\USUARIO\Desktop\fabi\javascript\ejercicios
 window power shell 
 node .\index.js
 
+te muestra los resultados
+si faltara un datos en la clase
+te aparece un undefined en pantalla
+
+
+
