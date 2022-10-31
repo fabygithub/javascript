@@ -7,3 +7,15 @@ ejemplo de atributos
 numero
 agencia 
 saldo
+
+clase cuenta corriente
+const cliente : es como crear un objeto
+atributos privados
+metodos :
+depositoencuenta(){}
+retiroencuenta(){}
+crear una nueva cuenta corriente:
+new cuentacorriente();
+
+window power shell o git bash
+node .\index.js
