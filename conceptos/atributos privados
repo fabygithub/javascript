@@ -31,5 +31,35 @@ te muestra los resultados
 si faltara un datos en la clase
 te aparece un undefined en pantalla
 
+atributos privados
+
+18-11-2022
+
+constructor(){
+}
+
+depositoEnCuenta(){
+}
+
+retirarDeCuenta(){
+}
+
+CuentaCorriente(){
+}
+
+windows power shell
+comandos 
+clear //cuando se le hace clear queda en el ultimo directorio
+node  // ejecuta el archivo javascript
+cd
+
+
+
+
+
+
+
+
+
 
 
